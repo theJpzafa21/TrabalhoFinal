@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.21.2"
+  },
+  "name": "trabalhofinal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theJpzafa21/TrabalhoFinal.git"
+  },
+  "author": "João Pedro Zafalon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theJpzafa21/TrabalhoFinal/issues"
+  },
+  "homepage": "https://github.com/theJpzafa21/TrabalhoFinal#readme",
+  "description": ""
+}
